@@ -1,6 +1,6 @@
 {
   "name": "vue-jazzicon-3",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Vue component for danfinlay/jazzicon",
   "author": "yusufcany",
   "scripts": {
@@ -9,7 +9,6 @@
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
-    "color": "^4.2.3",
     "core-js": "^3.6.5",
     "mersenne-twister": "^1.1.0",
     "vue": "^3.0.0"
